@@ -1,6 +1,6 @@
 # CMU Storage Engine
 
-A disk-oriented storage manager with SQL query support.
+A disk-oriented storage manager with SQL query support
 
 ## Table of Contents
 
