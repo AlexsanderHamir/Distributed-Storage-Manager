@@ -1,4 +1,5 @@
 # CMU Storage Engine
+> DSM = Distributed Storage Manager
 
 A disk-oriented storage manager with SQL query support
 
